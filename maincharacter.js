@@ -1042,7 +1042,7 @@
     const _0x594c11 = document.createElement("input");
     _0x594c11.type = "checkbox";
     _0x594c11.id = "fetchCode";
-    _0x594c11.checked = GM_getValue("fetchCode", false);
+    _0x594c11.checked = GM_getValue("fetchCode", true);
     _0x594c11.disabled = true;
     const _0x867e6d = document.createElement("label");
     _0x867e6d.htmlFor = "fetchCode";
@@ -1052,7 +1052,7 @@
     const _0x49afc2 = document.createElement("input");
     _0x49afc2.type = "checkbox";
     _0x49afc2.id = "autoStart";
-    _0x49afc2.checked = GM_getValue("autoStart", false);
+    _0x49afc2.checked = GM_getValue("autoStart", true);
     _0x49afc2.disabled = true;
     const _0x50e59d = document.createElement("label");
     _0x50e59d.htmlFor = "autoStart";
