@@ -3,9 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.3.1
 // @description  Bypass Yeumoney premium
-// @require      https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
-// @updateURL    https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.user.js
-// @downloadURL  https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.user.js
+// @require      https://github.com/AkaExility/bypasslink/blob/main/maincharacter.js
+// @updateURL    https://github.com/AkaExility/bypasslink/edit/main/tampertext
+// @downloadURL  https://github.com/AkaExility/bypasslink/edit/main/tampertext
 // @author       bypass yeumoney
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
