@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Bypass Private
 // @namespace    http://tampermonkey.net/
-// @version      3.3.1
+// @version      3.3.2
 // @description  Bypass Yeumoney For Aka Only
-// @require      https://github.com/AkaExility/bypasslink/blob/main/maincharacter.js
-// @updateURL    https://github.com/AkaExility/bypasslink/blob/main/tampertext.js
-// @downloadURL  https://github.com/AkaExility/bypasslink/blob/main/tampertext.js
+// @require      https://github.com/AkaExility/bypasslink/raw/refs/heads/main/maincharacter.js
+// @updateURL    https://github.com/AkaExility/bypasslink/raw/refs/heads/main/tampertext.js
+// @downloadURL  https://github.com/AkaExility/bypasslink/raw/refs/heads/main/tampertext.js
 // @author       bypass yeumoney
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
