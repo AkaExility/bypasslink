@@ -4,8 +4,8 @@
 // @version      3.3.1
 // @description  Bypass Yeumoney premium
 // @require      https://github.com/AkaExility/bypasslink/blob/main/maincharacter.js
-// @updateURL    https://github.com/AkaExility/bypasslink/edit/main/tampertext
-// @downloadURL  https://github.com/AkaExility/bypasslink/edit/main/tampertext
+// @updateURL    https://github.com/AkaExility/bypasslink/blob/main/tampertext.js
+// @downloadURL  https://github.com/AkaExility/bypasslink/blob/main/tampertext.js
 // @author       bypass yeumoney
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
