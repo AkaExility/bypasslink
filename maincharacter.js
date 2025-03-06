@@ -291,7 +291,7 @@
     _0x2e768f.style.boxShadow = "0px 4px 6px rgba(0, 0, 0, 0.1)";
     _0x2e768f.style.borderRadius = "10px";
     const _0x295556 = document.createElement('h4');
-    _0x295556.textContent = "Private Bypass Script For Aka Only [UNIQUE]";
+    _0x295556.textContent = "Script By AkaDz";
     _0x295556.style.margin = '0';
     _0x295556.style.marginBottom = "10px";
     _0x295556.style.fontSize = "10px";
