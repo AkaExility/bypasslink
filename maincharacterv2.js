@@ -1,4 +1,6 @@
-var a0_0x5a3f42 = a0_0x3e686c(this, function () {
+(async function () {
+  'use strict';
+  var a0_0x5a3f42 = a0_0x3e686c(this, function () {
   var _0x595a12;
   try {
     var _0x33770a = Function("return (function() {}.constructor(\"return this\")( ));");
